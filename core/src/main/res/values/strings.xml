@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vendor_merchants_link" translatable="false">android-app://vendor_merchants/{vendorId}</string>
+</resources>
